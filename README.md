@@ -1,3 +1,5 @@
+AI Voice Assistant for Journaling
+
 # AI Voice Assistant for Journaling
 
 An AI-powered voice journaling application built with Streamlit and OpenAI APIs. Users can record their thoughts through a microphone, automatically transcribe speech to text, receive thoughtful AI responses, and listen to responses through text-to-speech.
